@@ -1,0 +1,9 @@
+{
+  "name": "raushan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Raushan Chaubey. Plain HTML, CSS and JavaScript, no build step.",
+  "scripts": {
+    "start": "npx --yes serve . -l 5500"
+  }
+}
